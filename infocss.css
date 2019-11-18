@@ -1,0 +1,78 @@
+body
+{
+background-image:url("https://img.dtnext.in/Images/Article/201705152328350644_Day-One-12-MTC-buses-stoned-in-city_SECVPF.gif");
+background-repeat:no-repeat;
+background-size:cover;
+padding:400px;
+
+}
+.title{
+text-align:center;
+text-shadow:2px 2px 2px grey;
+font-size:50px;
+position:absolute;
+top:1px;
+left:280px;
+}
+table
+{
+border-radius:20px;
+position:absolute;
+top:160px;
+left:550px;
+background-color:#FFFFFF;
+}
+th
+{
+font-size:20px;
+font-style:italic;
+font-family:Georgia, "Times New Roman", Times, serif;
+}
+td
+{
+font-size:18px;
+font-style:inherit;
+}
+.dropbtn {
+  background-color: white;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  border-radius:18px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 400px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius:24px;
+  font-size:16px;
+}
+
+.dropdown-content li:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color:#CCCCCC;}
+
+      a:hover
+	  {
+	   color:#990099;
+	  }
+	  a
+	  {
+	   color:#0000FF;
+	   font-size:18px;
+	   position:absolute;
+	   top:15px;
+	   left:2px;
+	  }

@@ -1,0 +1,60 @@
+body
+{
+background-color:#8BF891;
+}
+
+
+.container
+{
+position:absolute;
+border-radius:18px;
+top:60px;
+left:250px;
+width:450px;
+height:500px;
+padding:2px;
+padding-right:350px; 
+border: 1px ridge;
+margin: 0;
+background:#FFFFFF;
+
+}
+.logo
+{
+width:90px;
+height:90px;
+border-radius:48%;
+position:absolute;
+right:85%;
+top:1px;
+}
+
+h5
+{
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:25px;
+font-style:italic;
+position:absolute;
+top:1px;
+left:180px;
+}
+.php
+{
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:24px;
+font-style:italic;
+padding-left:10px;
+}
+.img
+{
+background-color:#CCCCCC;
+position:absolute;
+padding:70px 20px;
+left:550px;
+top:150px;
+}
+.note
+{
+position:absolute;
+left:50px;
+}

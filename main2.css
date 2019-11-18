@@ -1,0 +1,145 @@
+
+h6{
+text-align:center;
+text-shadow:5px 2px 4px grey;
+font-size:50px;
+position:absolute;
+top:40px;
+left:330px;
+}
+
+.footer
+{
+position:absolute;
+top:1900;
+background-color:#333333;
+padding:190px 640px;
+}
+h5
+{
+color:#FFFFFF;
+font-size:50px;
+position:absolute;
+top:75px;
+left:455px;
+}
+.p
+{
+color:#FFFFFF;
+position:absolute;
+left:255px;
+font-size:18px;
+top:175px;
+font-style:italic;
+}
+.span
+{
+position:absolute;
+left:235px;
+font-style:italic;
+}
+.touch
+{
+border-radius:18px;
+padding:10px 70px;
+position:absolute;
+left:530px;
+top:258px;
+font-size:20px;
+font-family:Georgia, "Times New Roman", Times, serif;
+cursor:pointer;
+border:#666666;
+color:#990099;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+.touch:hover
+{
+background-color:#FF0033;
+color:black;
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.dropbtn{
+  background-color:#CCCCCC;
+  color: white;
+  padding: 10px 45px;
+  font-size: 16px;
+  border: none;
+   border-radius:18px;
+}
+
+.dropdown {
+  position: absolute;
+  display: inline-block;
+  top:10px;
+  left:10px;
+ }
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 140px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius:24px;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color:#666666;}
+
+.dropbtn1{
+  background-color:#CCCCCC;
+  color: white;
+  padding: 10px 65px;
+  font-size: 16px;
+  border: none;
+   border-radius:18px;
+}
+
+.dropdown1 {
+  position: absolute;
+  display: inline-block;
+  top:10px;
+  right:5px;
+ }
+.dropdown1-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 140px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius:24px;
+}
+.dropdown1-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown1-content a:hover {background-color: #ddd;}
+
+.dropdown1:hover .dropdown1-content {display:inherit;}
+
+.dropdown1:hover .dropbtn1 {background-color:#666666;}
+
+
+
+
+
+
+
+
+
+
+
+
+
